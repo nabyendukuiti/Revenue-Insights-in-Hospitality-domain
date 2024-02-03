@@ -5,7 +5,7 @@
 
 - [Introduction](#Introduction)
 - [Task](#question-and-solution)
-- [Dashboard]([https://onedrive.live.com/edit?id=8A22096FE7B14F31!352&resid=8A22096FE7B14F31!352&ithint=file%2cxlsx&authkey=!AA_wrIZ7ZBR2wM8&wdo=2&cid=8a22096fe7b14f31](https://1drv.ms/x/s!AjFPsedvCSKKgmAP8KyGe2QUdsDP?e=GLWtlC))
+- [Dashboard]([https://onedrive.live.com/edit?id=8A22096FE7B14F31!352&resid=8A22096FE7B14F31!352&ithint=file%2cxlsx&authkey=!AA_wrIZ7ZBR2wM8&wdo=2&cid=8a22096fe7b14f31](https://1drv.ms/x/s!AjFPsedvCSKKgmAP8KyGe2QUdsDP?e=GLWtlC)
 
 ## Introduction
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
