@@ -18,5 +18,5 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 ![Mock up dashboard_atliq grands](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/assets/140970847/a618d4fe-3ca6-45d8-9273-51abc669e205)
 
 ## Dashboard
-![SS1](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/assets/140970847/0ea51c47-e107-4510-b2e3-52924592c213)
-![SS2](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/assets/140970847/0df65524-0a4f-4e47-a2bd-4aa8b9dc651b)
+![SS1](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/assets/140970847/eb4ac4e0-119b-4c24-9ac3-45e3e195f1e4)
+![SS2](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/assets/140970847/3b06b0ed-6147-450a-ac3d-49351ed41fa5)
